@@ -26,7 +26,7 @@ El codigo fue hecho en C++ usando librerias GLFW, glad, glm y uso de codigo de l
   Los modelos fueron extraidos de un visor de modelos de Starcraft 2 "cascview". Es necesario
   descargar el juego para poder extraer los modelos.
 
-  https://www.blizzard.com/es-es/](https://starcraft2.blizzard.com/es-mx/)https://starcraft2.blizzard.com/es-mx/
+  [https://www.blizzard.com/es-es/](https://starcraft2.blizzard.com/es-mx/)https://starcraft2.blizzard.com/es-mx/](https://starcraft2.blizzard.com/es-mx/)
   
   ![image](https://github.com/Sqtlsmail/Learnopengl_model3D_Starcraft/assets/122818672/5174f07b-1260-4e98-a166-631dd7c28f2a)
 

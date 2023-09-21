@@ -23,7 +23,7 @@ El codigo fue hecho en C++ usando librerias GLFW, glad, glm y uso de codigo de l
 
 
 # MODELOS 3D Starcraft
-  Los modelos fueron extraidos de un visor de modelos de Starcraft 2. Es necesario
+  Los modelos fueron extraidos de un visor de modelos de Starcraft 2 "cascview". Es necesario
   descargar el juego para poder extraer los modelos.
 
   https://www.blizzard.com/es-es/](https://starcraft2.blizzard.com/es-mx/)https://starcraft2.blizzard.com/es-mx/
